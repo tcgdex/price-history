@@ -7,11 +7,17 @@
                     "count": 1,
                     "min": 5,
                     "max": 5
+                },
+                "2022-12-11": {
+                    "avg": 20,
+                    "count": 1,
+                    "min": 20,
+                    "max": 20
                 }
             },
-            "avg": 5,
-            "avg7": 5,
-            "avg28": 5
+            "avg": 20,
+            "avg7": 20,
+            "avg28": 12.5
         },
         "reverse": {
             "history": {
