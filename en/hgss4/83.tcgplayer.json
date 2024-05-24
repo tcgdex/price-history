@@ -1,6 +1,6 @@
 {
 	"data": {
-		"normal": {
+		"normal-good": {
 			"history": {
 				"2023-03-02": {
 					"avg": 170,
@@ -139,7 +139,7 @@
 			"avg7": 70,
 			"avg28": 52
 		},
-		"reverse": {
+		"reverse-good": {
 			"history": {
 				"2023-04-27": {
 					"avg": 45,

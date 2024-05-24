@@ -1,6 +1,6 @@
 {
 	"data": {
-		"normal": {
+		"normal-good": {
 			"history": {
 				"2022-12-10": {
 					"avg": 25,
@@ -547,7 +547,7 @@
 			"avg7": 109,
 			"avg28": 109
 		},
-		"holo": {
+		"holo-good": {
 			"history": {
 				"2022-12-15": {
 					"avg": 173,

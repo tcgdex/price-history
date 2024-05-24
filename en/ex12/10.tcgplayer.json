@@ -1,6 +1,6 @@
 {
 	"data": {
-		"holo": {
+		"holo-good": {
 			"history": {
 				"2022-11-28": {
 					"avg": 1195,
@@ -187,7 +187,7 @@
 			"avg7": 1499,
 			"avg28": 1499
 		},
-		"reverse": {
+		"reverse-good": {
 			"history": {
 				"2022-12-18": {
 					"avg": 899,

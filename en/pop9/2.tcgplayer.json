@@ -1,6 +1,6 @@
 {
 	"data": {
-		"holo": {
+		"holo-good": {
 			"history": {
 				"2023-01-08": {
 					"avg": 49,
@@ -133,7 +133,7 @@
 			"avg7": 463,
 			"avg28": 463
 		},
-		"normal": {
+		"normal-good": {
 			"history": {
 				"2023-02-17": {
 					"avg": 130,
