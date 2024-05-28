@@ -355,6 +355,32 @@
 			"avg": 2318,
 			"avg7": 2318,
 			"avg28": 1862
+		},
+		"normal-nearmint": {
+			"history": {
+				"2024-05-27": {
+					"avg": 185,
+					"count": 1,
+					"min": 185,
+					"max": 185
+				}
+			},
+			"avg": 185,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-nearmint": {
+			"history": {
+				"2024-05-27": {
+					"avg": 572,
+					"count": 1,
+					"min": 572,
+					"max": 572
+				}
+			},
+			"avg": 572,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

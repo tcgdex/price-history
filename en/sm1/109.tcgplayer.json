@@ -391,6 +391,19 @@
 			"avg": 123,
 			"avg7": 66,
 			"avg28": 66
+		},
+		"reverse-nearmint": {
+			"history": {
+				"2024-05-23": {
+					"avg": 47,
+					"count": 1,
+					"min": 47,
+					"max": 47
+				}
+			},
+			"avg": 47,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

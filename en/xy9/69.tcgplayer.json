@@ -251,6 +251,32 @@
 			"avg": 69,
 			"avg7": 69,
 			"avg28": 293
+		},
+		"normal-nearmint": {
+			"history": {
+				"2024-05-24": {
+					"avg": 10,
+					"count": 1,
+					"min": 10,
+					"max": 10
+				}
+			},
+			"avg": 10,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"normal-played": {
+			"history": {
+				"2024-05-23": {
+					"avg": 517,
+					"count": 1,
+					"min": 517,
+					"max": 517
+				}
+			},
+			"avg": 517,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

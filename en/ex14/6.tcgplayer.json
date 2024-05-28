@@ -493,6 +493,45 @@
 			"avg": 477,
 			"avg7": 477,
 			"avg28": 477
+		},
+		"reverse-poor": {
+			"history": {
+				"2024-05-24": {
+					"avg": 225,
+					"count": 1,
+					"min": 225,
+					"max": 225
+				}
+			},
+			"avg": 225,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"holo-played": {
+			"history": {
+				"2024-05-23": {
+					"avg": 542,
+					"count": 1,
+					"min": 542,
+					"max": 542
+				}
+			},
+			"avg": 542,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-played": {
+			"history": {
+				"2024-05-23": {
+					"avg": 567,
+					"count": 1,
+					"min": 567,
+					"max": 567
+				}
+			},
+			"avg": 567,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

@@ -200,11 +200,43 @@
 					"count": 1,
 					"min": 123,
 					"max": 123
+				},
+				"2024-05-27": {
+					"avg": 144,
+					"count": 1,
+					"min": 144,
+					"max": 144
 				}
 			},
-			"avg": 123,
+			"avg": 121,
 			"avg7": 123,
 			"avg28": 123
+		},
+		"normal-nearmint": {
+			"history": {
+				"2024-05-27": {
+					"avg": 13,
+					"count": 1,
+					"min": 13,
+					"max": 13
+				}
+			},
+			"avg": 13,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-nearmint": {
+			"history": {
+				"2024-05-24": {
+					"avg": 19,
+					"count": 1,
+					"min": 19,
+					"max": 19
+				}
+			},
+			"avg": 19,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

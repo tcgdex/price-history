@@ -457,6 +457,32 @@
 			"avg": 192,
 			"avg7": 215,
 			"avg28": 215
+		},
+		"normal-used": {
+			"history": {
+				"2024-05-26": {
+					"avg": 35,
+					"count": 1,
+					"min": 35,
+					"max": 35
+				}
+			},
+			"avg": 35,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-played": {
+			"history": {
+				"2024-05-25": {
+					"avg": 33,
+					"count": 1,
+					"min": 33,
+					"max": 33
+				}
+			},
+			"avg": 33,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

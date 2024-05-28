@@ -665,6 +665,51 @@
 			"avg": 250,
 			"avg7": 250,
 			"avg28": 250
+		},
+		"normal-played": {
+			"history": {
+				"2024-05-27": {
+					"avg": 459,
+					"count": 1,
+					"min": 459,
+					"max": 459
+				}
+			},
+			"avg": 459,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-poor": {
+			"history": {
+				"2024-05-27": {
+					"avg": 525,
+					"count": 1,
+					"min": 525,
+					"max": 525
+				}
+			},
+			"avg": 525,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"normal-nearmint": {
+			"history": {
+				"2024-05-24": {
+					"avg": 47,
+					"count": 1,
+					"min": 47,
+					"max": 47
+				},
+				"2024-05-26": {
+					"avg": 169,
+					"count": 2,
+					"min": 169,
+					"max": 169
+				}
+			},
+			"avg": 128,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

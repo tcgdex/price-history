@@ -559,6 +559,45 @@
 			"avg": 944,
 			"avg7": 944,
 			"avg28": 944
+		},
+		"holo-played": {
+			"history": {
+				"2024-05-27": {
+					"avg": 154,
+					"count": 1,
+					"min": 154,
+					"max": 154
+				}
+			},
+			"avg": 154,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-poor": {
+			"history": {
+				"2024-05-26": {
+					"avg": 200,
+					"count": 1,
+					"min": 200,
+					"max": 200
+				}
+			},
+			"avg": 200,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"holo-nearmint": {
+			"history": {
+				"2024-05-25": {
+					"avg": 658,
+					"count": 1,
+					"min": 658,
+					"max": 658
+				}
+			},
+			"avg": 658,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

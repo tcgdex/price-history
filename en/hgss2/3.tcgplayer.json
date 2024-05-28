@@ -169,6 +169,32 @@
 			"avg": 93,
 			"avg7": 93,
 			"avg28": 93
+		},
+		"reverse-played": {
+			"history": {
+				"2024-05-26": {
+					"avg": 218,
+					"count": 1,
+					"min": 218,
+					"max": 218
+				}
+			},
+			"avg": 218,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"holo-nearmint": {
+			"history": {
+				"2024-05-26": {
+					"avg": 483,
+					"count": 1,
+					"min": 483,
+					"max": 483
+				}
+			},
+			"avg": 483,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

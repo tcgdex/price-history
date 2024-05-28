@@ -541,6 +541,45 @@
 			"avg": 36,
 			"avg7": 88,
 			"avg28": 88
+		},
+		"normal-played": {
+			"history": {
+				"2024-05-27": {
+					"avg": 255,
+					"count": 3,
+					"min": 255,
+					"max": 255
+				}
+			},
+			"avg": 255,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"normal-nearmint": {
+			"history": {
+				"2024-05-25": {
+					"avg": 99,
+					"count": 1,
+					"min": 99,
+					"max": 99
+				}
+			},
+			"avg": 99,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-played": {
+			"history": {
+				"2024-05-24": {
+					"avg": 48,
+					"count": 2,
+					"min": 48,
+					"max": 48
+				}
+			},
+			"avg": 48,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

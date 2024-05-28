@@ -511,6 +511,32 @@
 			"avg": 61,
 			"avg7": 71,
 			"avg28": 71
+		},
+		"holo-nearmint": {
+			"history": {
+				"2024-05-27": {
+					"avg": 30,
+					"count": 1,
+					"min": 30,
+					"max": 30
+				}
+			},
+			"avg": 30,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"holo-played": {
+			"history": {
+				"2024-05-27": {
+					"avg": 21,
+					"count": 1,
+					"min": 21,
+					"max": 21
+				}
+			},
+			"avg": 21,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }

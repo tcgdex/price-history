@@ -277,6 +277,32 @@
 			"avg": 77,
 			"avg7": 77,
 			"avg28": 77
+		},
+		"holo-played": {
+			"history": {
+				"2024-05-27": {
+					"avg": 234,
+					"count": 1,
+					"min": 234,
+					"max": 234
+				}
+			},
+			"avg": 234,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"reverse-played": {
+			"history": {
+				"2024-05-25": {
+					"avg": 59,
+					"count": 1,
+					"min": 59,
+					"max": 59
+				}
+			},
+			"avg": 59,
+			"avg7": -1,
+			"avg28": -1
 		}
 	}
 }
