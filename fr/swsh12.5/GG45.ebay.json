@@ -1,0 +1,43 @@
+{
+	"data": {
+		"normal-mint": {
+			"history": {
+				"2024-08-05": {
+					"avg": 3347,
+					"count": 1,
+					"min": 3347,
+					"max": 3347
+				}
+			},
+			"avg": 3347,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"normal-good": {
+			"history": {
+				"2024-08-02": {
+					"avg": 3802,
+					"count": 1,
+					"min": 3802,
+					"max": 3802
+				}
+			},
+			"avg": 3802,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"normal-nearmint": {
+			"history": {
+				"2024-07-27": {
+					"avg": 3014,
+					"count": 1,
+					"min": 3014,
+					"max": 3014
+				}
+			},
+			"avg": 3014,
+			"avg7": -1,
+			"avg28": -1
+		}
+	}
+}

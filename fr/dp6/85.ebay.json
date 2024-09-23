@@ -1,0 +1,30 @@
+{
+	"data": {
+		"normal-nearmint": {
+			"history": {
+				"2024-09-16": {
+					"avg": 385,
+					"count": 1,
+					"min": 385,
+					"max": 385
+				}
+			},
+			"avg": 385,
+			"avg7": -1,
+			"avg28": -1
+		},
+		"normal-good": {
+			"history": {
+				"2024-09-13": {
+					"avg": 319,
+					"count": 1,
+					"min": 319,
+					"max": 319
+				}
+			},
+			"avg": 319,
+			"avg7": -1,
+			"avg28": -1
+		}
+	}
+}
