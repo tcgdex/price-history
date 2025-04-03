@@ -3,13 +3,13 @@
 		"normal-good": {
 			"history": {
 				"2025-04-02": {
-					"avg": 230,
-					"count": 1,
+					"avg": 267,
+					"count": 3,
 					"min": 230,
-					"max": 230
+					"max": 339
 				}
 			},
-			"avg": 230,
+			"avg": 267,
 			"avg7": -1,
 			"avg28": -1
 		}
