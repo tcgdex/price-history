@@ -2,12 +2,6 @@
 	"data": {
 		"normal-good": {
 			"history": {
-				"2025-04-01": {
-					"avg": 189,
-					"count": 1,
-					"min": 189,
-					"max": 189
-				},
 				"2025-04-03": {
 					"avg": 189,
 					"count": 1,
