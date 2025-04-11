@@ -3,13 +3,13 @@
 		"normal-nearmint": {
 			"history": {
 				"2025-04-10": {
-					"avg": 1663,
-					"count": 4,
-					"min": 1570,
-					"max": 1750
+					"avg": 1653,
+					"count": 1,
+					"min": 1653,
+					"max": 1653
 				}
 			},
-			"avg": 1663,
+			"avg": 1653,
 			"avg7": -1,
 			"avg28": -1
 		}
