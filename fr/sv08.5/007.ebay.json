@@ -58,13 +58,13 @@
 		"normal-nearmint": {
 			"history": {
 				"2025-05-08": {
-					"avg": 800,
-					"count": 1,
+					"avg": 975,
+					"count": 2,
 					"min": 800,
-					"max": 800
+					"max": 1150
 				}
 			},
-			"avg": 800,
+			"avg": 975,
 			"avg7": -1,
 			"avg28": -1
 		}
